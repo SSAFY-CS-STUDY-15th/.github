@@ -1,8 +1,10 @@
 # 📚 SSAFY-CS-STUDY-15th
 
 > 단순 정리보단 **구현 / 실제 적용 중심**의 CS 스터디
+
  - 각자 주제별로 공부한 내용을 발표 형식으로 공유 + Q&A
  - 자신의 주제를 딥다이브하여 스터디 후 직접 활용/적용해봅니다. 그리고 글로 남깁니다.
+
 ---
 
 ## 🗓️ Schedule
@@ -17,7 +19,9 @@
 
 - **준비**: 각자 주제별로 공부한 내용을 Markdown 문서로 정리 해오기
 - **발표**: 인당 5~10분 | 발표 자료는 정리해온 문서
+  - 발표 자료에 대해서는 Pull Requeset 생성 및 멤버 `Reviewer`로 추가
 - **Q&A**: 발표 후 질문 & 토론 (모르는 부분은 함께 찾아보기)
+  - 논의 내용 PR에 comment 남기기
 
 ---
 
@@ -31,15 +35,19 @@
 
 ## 👥 Member
 
-- 김동연 (<a href="https://github.com/Todom2">Todom2</a>)
-- 김민지 (<a href="https://github.com/mouse0429">mouse0429</a>)
-- 서승준 (<a href="https://github.com/greensnapback0229">greensnapback0229</a>)
+- <a href="https://github.com/SSAFY-CS-STUDY-15th/KimDongYeon">김동연</a> (<a href="https://github.com/Todom2">Todom2</a>) 
+- <a href="https://github.com/SSAFY-CS-STUDY-15th/KimMinJi">김민지</a> (<a href="https://github.com/mouse0429">mouse0429</a>) 
+- <a href="https://github.com/SSAFY-CS-STUDY-15th/SeoSeungJun">서승준</a> (<a href="https://github.com/greensnapback0229">greensnapback0229</a>) 
 
 ---
 
-## 🧩 Commit Convention
+## 🧩 Convention
 
-> format
+
+
+### commit
+
+> Format
 
  `$commit_type: ${explanation}`
 
@@ -49,4 +57,29 @@
 - `write` **|** summary of write article
 - `edit` **|** summary of edit contents
 - `asset` **|** explain about asset}
+
+
+
+### Folder Structure
+
+```
+(repository)
+├─ _assets            
+    └─${assets}.png
+├─[topic]-${title}.md
+├─[topic]-${title}.md
+└─[topic]-${title}.md
+```
+
+
+
+### Pull Request
+
+```markdown
+# Title
+
+## Summary
+
+## Discussion Point
+```
 
