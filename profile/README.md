@@ -43,9 +43,11 @@
 
 ## 🧩 Convention
 
+### Title
+- [$topic]-${title}
+- topic tag : `NW` / `OS` / `JAVA` / `DB`
 
-
-### commit
+### Commit
 
 > Format
 
