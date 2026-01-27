@@ -35,11 +35,12 @@
 
 ## 👥 Member
 
-| 이름   | 스터디 글                                                    | Github                                                    |
-| ------ | ------------------------------------------------------------ | --------------------------------------------------------- |
+| 이름   | 스터디 글                                                    | Github                                                      |
+| ------ | ------------------------------------------------------------ | -------------------------------------------------------- |
 | 김동연 | [Article](https://github.com/SSAFY-CS-STUDY-15th/KimDongYeon) | [Todom2](https://github.com/Todom2)                       |
-| 김민지 | [Article](https://github.com/SSAFY-CS-STUDY-15th/KimMinJi)   | [mouse0429](https://github.com/mouse0429)                 |
+| 김민지 | [Article](https://github.com/SSAFY-CS-STUDY-15th/KimMinJi)   | [mouse0429](https://github.com/mouse0429)                  |
 | 서승준 | [Article](https://github.com/SSAFY-CS-STUDY-15th/SeoSeungJun) | [greensnapback0229](https://github.com/greensnapback0229) |
+| 장현준 | [Article](https://github.com/SSAFY-CS-STUDY-15th/JangHyunJun) | [greensnapback0229](https://github.com/buzz0331)           |
 
 
 
