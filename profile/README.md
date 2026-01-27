@@ -62,7 +62,8 @@
 
 - `write` **|** summary of write article
 - `edit` **|** summary of edit contents
-- `asset` **|** explain about asset}
+- `asset` **|** explain about asset
+- `chore` **|** miscellaneous tasks
 
 
 
