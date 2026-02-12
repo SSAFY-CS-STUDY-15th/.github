@@ -41,6 +41,7 @@
 | 김민지 | [Article](https://github.com/SSAFY-CS-STUDY-15th/KimMinJi)   | [mouse0429](https://github.com/mouse0429)                  |
 | 서승준 | [Article](https://github.com/SSAFY-CS-STUDY-15th/SeoSeungJun) | [greensnapback0229](https://github.com/greensnapback0229) |
 | 장현준 | [Article](https://github.com/SSAFY-CS-STUDY-15th/JangHyunJun) | [buzz0331](https://github.com/buzz0331)           |
+| 김수환 | [Article](https://github.com/SSAFY-CS-STUDY-15th/KimSooHwan) | [genius00hwan](https://github.com/genius00hwan)           |
 
 
 
